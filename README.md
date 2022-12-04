@@ -2,7 +2,9 @@
 
 ## Tasks
 
-1. Fork the repository
+1. Fork the repository 
+
+DONE!
 
 **NOTE**: If you do not fork the repository, you will not get the 10%
 
