@@ -4,8 +4,6 @@
 
 1. Fork the repository 
 
-DONE!
-
 **NOTE**: If you do not fork the repository, you will not get the 10%
 
 2. Clone the repository to your local machine
@@ -21,3 +19,6 @@ DONE!
 **NOTE**: If you do not push your changes to your repository, you will not get the 10%
 
 **PROBLEMS?**: Please write below this line if you are encountering any problems. If you detail your problems here, you will get the 10%. Just be sure to push your changes to your forked repository.
+
+There are comments in my script.js file 
+-Patrick
